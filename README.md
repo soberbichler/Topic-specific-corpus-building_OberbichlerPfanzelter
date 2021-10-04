@@ -1,1 +1,1 @@
-Sarah Oberbichler/Eva Pfanzelter, Topic-specific corpus building: The creation of a representative newspaper corpus on the topic of return migration using LDA and JSD
+Sarah Oberbichler/Eva Pfanzelter, Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods, Journal of Digital History [preprint]
