@@ -1,1 +1,1 @@
-Sarah Oberbichler/Eva Pfanzelter, Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods, Journal of Digital History [preprint]. To read the text, click on the file “TopicSpecificCorpusBuilding.ipynb”
+Sarah Oberbichler/Eva Pfanzelter, Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods
